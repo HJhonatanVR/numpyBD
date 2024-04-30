@@ -1,4 +1,4 @@
 # numpyBD
 
-[NumPy](https://nbviewer.jupyter.org/github/HJhonatanVR/numpyBD/blob/main/numpy.ipynb)
+[NumPy](https://nbviewer.org/github/HJhonatanVR/numpyBD/blob/main/numpy.ipynb)
 
